@@ -30,12 +30,6 @@ Movie\_Recommender\_System/
 ---
 
 ## 📊 Dataset
-Got it!
-Here’s your **📊 Dataset** section rewritten to match your **Movie Recommender System** instead of laptops:
-
----
-
-## 📊 Dataset
 
 The dataset contains information about various movies, including their titles, genres, overviews, keywords, cast, crew, and other metadata.
 This information is used to build a **content-based recommender system** that suggests similar movies based on their features.
