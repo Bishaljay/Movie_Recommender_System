@@ -29,6 +29,27 @@ Movie\_Recommender\_System/
 
 ---
 
+## 📊 Dataset
+Got it!
+Here’s your **📊 Dataset** section rewritten to match your **Movie Recommender System** instead of laptops:
+
+---
+
+## 📊 Dataset
+
+The dataset contains information about various movies, including their titles, genres, overviews, keywords, cast, crew, and other metadata.
+This information is used to build a **content-based recommender system** that suggests similar movies based on their features.
+
+**Features include:**
+
+* Title
+* Genres
+* Overview / Plot summary
+* Keywords
+* Cast & Crew information
+* Movie ID (used to fetch posters from TMDb)
+- Dataset source: [Github](https://github.com/Bishaljay/Movie_Recommender_System/blob/main/Datasets.zip)
+
 ## 🔧 Requirements
 
 - Python 3.x  
